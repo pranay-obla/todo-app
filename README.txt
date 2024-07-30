@@ -1,5 +1,3 @@
-=======================================DJANGO TODO APP=======================================
-
 ADMIN USER DETAILS
 USERNAME: admin
 PASSWORD: administrator
@@ -21,4 +19,8 @@ TO RUN THE APP
 6. RUN THE COMMAND todoenv\scripts\activate TO ACTIVATE VIRTUAL ENVIRONMENT
 7. RUN THE COMMAND python manage.py runserver TO RUN THE WEB SERVER
 8. GO TO ANY BROWSER AND PASTE THE LINK DISPLAYED IN THE TERMINAL
+<<<<<<< Updated upstream
 (OR) PASTE THE LINK http://127.0.0.1:8000/ ON YOUR BROWSER
+=======
+(OR) PASTE THE LINK http://127.0.0.1:8000/ ON YOUR BROWSER
+>>>>>>> Stashed changes
